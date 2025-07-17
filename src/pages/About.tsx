@@ -56,7 +56,7 @@ const About = () => {
             
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/6129967/pexels-photo-6129967.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1"
+                src="ibuibu.jpg"
                 alt="Ibu-ibu KWT sedang bekerja"
                 className="rounded-lg shadow-lg"
               />
@@ -172,7 +172,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/6129967/pexels-photo-6129967.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1"
+                src="Piket Harian.jpg"
                 alt="Piket Harian"
                 className="w-full h-48 object-cover"
               />
@@ -186,7 +186,7 @@ const About = () => {
 
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1"
+                src="Pertemuan Rutin.jpg"
                 alt="Pertemuan Rutin Bulanan"
                 className="w-full h-48 object-cover"
               />
@@ -200,7 +200,7 @@ const About = () => {
 
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/5965592/pexels-photo-5965592.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1"
+                src="Pelatihan.jpg"
                 alt="Pelatihan"
                 className="w-full h-48 object-cover"
               />
@@ -214,7 +214,7 @@ const About = () => {
 
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/5638732/pexels-photo-5638732.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1"
+                src="Produksi.jpg"
                 alt="Produksi Olahan"
                 className="w-full h-48 object-cover"
               />
@@ -228,7 +228,7 @@ const About = () => {
 
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/6995247/pexels-photo-6995247.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1"
+                src="Bazar.jpg"
                 alt="Bazar dan Pameran"
                 className="w-full h-48 object-cover"
               />
