@@ -14,7 +14,7 @@ export const products: Product[] = [
     name: 'Kripik Pepaya',
     description: 'Kripik pepaya renyah dan gurih, dibuat dari pepaya segar pilihan dengan bumbu tradisional',
     price: 'Rp 15.000',
-    image: 'Kripik Pepaya.jpg',
+    image: 'Keripikpepaya.jpg',
     category: 'processed'
   },
   {
@@ -22,7 +22,7 @@ export const products: Product[] = [
     name: 'Kripik Talas',
     description: 'Kripik talas premium dengan tekstur renyah dan rasa yang khas, cocok untuk camilan sehat',
     price: 'Rp 18.000',
-    image: 'Keripik Talas.jpg',
+    image: 'Keripiktalas.jpg',
     category: 'processed'
   },
   {
@@ -38,7 +38,7 @@ export const products: Product[] = [
     name: 'Dodol Talas',
     description: 'Dodol talas lembut dengan cita rasa manis dan tekstur yang kenyal, camilan tradisional favorit',
     price: 'Rp 20.000',
-    image: 'Dodol Talas.jpg',
+    image: 'Dodol.jpg',
     category: 'processed'
   },
   // Produk Segar
